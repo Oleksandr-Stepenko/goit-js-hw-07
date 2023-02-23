@@ -8,8 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Oleksandr-Stepenko/goit-js-hw-07.git"
+    "url": "git+https://github.com/Oleksandr-Stepenko/goit-js-hw-07.git"
   },
   "author": "Oleksandr Stepenko",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oleksandr-Stepenko/goit-js-hw-07/issues"
+  },
+  "homepage": "https://github.com/Oleksandr-Stepenko/goit-js-hw-07#readme",
+  "keywords": []
 }
